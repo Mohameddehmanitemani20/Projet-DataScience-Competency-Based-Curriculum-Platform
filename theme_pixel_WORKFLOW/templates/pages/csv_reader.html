@@ -1,0 +1,16 @@
+{% extends 'pages/dashboard.html' %}
+
+{% block content %}
+{% csrf_token %}
+  <h1>CSV Data</h1>
+  <table>
+   
+    {% for row in csv_data %}
+      <tr>
+        {% for cell in row %}
+          <td>{{ cell }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </table>
+{% endblock %}

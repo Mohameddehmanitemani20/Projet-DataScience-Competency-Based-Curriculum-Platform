@@ -1,0 +1,83 @@
+Année de diplomation,Entreprise Actuelle,Poste Actuel,Merci de  décrire une journée de travail (10 activités):,"Pour chaque activité, merci de décrire 3 à 4 taches: 
+ACTIVITE 1:",ACTIVITE 2:,ACTIVITE 3:,ACTIVITE 4:,ACTIVITE 5:,ACTIVITE 6:,ACTIVITE 7:,ACTIVITE 8:,ACTIVITE 9:,ACTIVITE 10:
+2021,Be-softilys ,Ingénieur logiciel/ devops,Daily scrum meeting de 30 minutes avec toute l'équipe ,Surveillance des applications et systèmes en production,Développement des codes d'automatisation de configuration des infrastructures ,Résolution des bugs techniques ,Développement de nouvelles fonctionnalités ,,,,,,
+2021,InstaDeep,AI Research Engineer,,Daily standup call : give updates and describe main focus for current day.,Coding : code the assigned tasks.,Testing : write some tests to verify the code is doing what it's supposed to do.,"Running experiments: train machine learning models, evaluating them and try to explain what the models learned.",Documenting : Write documentation about the realized tasks,"Brainstorming : meeting with team members to propose, think about new ideas and how they can be implemented",,,,
+2021,Comar,Actuaire/Data scientist,"Consulter ma boite mail, organiser les tâches à effectuer, extraction et collecte des données, traitement des données, effectuer les calculs demandés, visualisation des données, préparation d’une note explicative pour expliquer et analyser les résultats, organisation des réunions pour partager les résultats trouvés avec mes collaborateurs, faire des modifications si c’est nécessaire, envoie de la note finale aux supérieurs hiérarchiques pour validation.","Lire les nouveaux messages, extraire les projets à effectuer et les ordonner selon les priorités.","Pour le projet à effectuer j’organise les étapes à suivre, je précise les outils nécessaires à utiliser et je précise le type et la source des données indispensables.","Pour chaque projet, nous utilisons soit des données d’une seule source ou depuis des sources multiples. Ces sources peuvent être disponibles donc on fait une simple extraction ou indisponibles donc on fait une demande d’extraction de la part des départements concernés.","Une fois les données sont collectées, on fait les jointures et les concaténations nécessaires. On supprime les doublons et on traite les données manquantes s’il y on a. On supprime les colonnes inutiles et on crée des nouvelles variables selon les besoins du projet.","On commence maintenant nos calculs:
+* calcul des provisions 
+* calcul des ratio S/P
+* calcul des primes pures
+* . . .
+Selon les besoins ","Pour la visualisation des données, on prépare des graphiques: histogrammes, pie charts, courbes, tableaux, nuage de points, box plots, ...","Une fois nous avons tous les résultats et les graphiques, nous commençons à rédiger une note bien organisée qui récapitule tous les travaux, les résultats et les explications nécessaires.",Nous organisons quotidiennement des réunions avec nos collaborateurs pour partager les idées et discuter les différents résultats trouvés.,"À l’issue de la réunion effectuée, nous appliquons des modifications sur la note explicative du projet.",La version finale de la note sera envoyée aux supérieurs hiérarchiques pour validation.
+2021,Just eat takeaway.com,Data engineer ,Many data pipelines using airflow kafka python pyspark,Schedule different predictions models,Updating data,Serving data predictions ,,,,,,,
+2022,EY,Data Scientist ,"1- Mettre en place mon bureau 
+2- Verfier les e-mails et le planning de la journée
+3- Commencer les taches à faire","faire le check in pour confirmer la confirmer la reservation du bureau 
+ouvrir le pc et se connecter au réseau de EY
+Mettre mes effets personnels ","Consulter la boites de reception 
+Voir les nouveautés de EY Global pour etre à jour  de l'actualité
+consulter le planning des réunions pour organiser la journée 
+ ","ouvrir les environnements à utiliser 
+commencer les taches à faire",,,,,,,
+2021,datagram,data engineer,"organisation des taches (tickets jira)
+reunion
+monitoring airflow
+realisation des nouvelles taches 
+projects secondaires
+",suivre l'etat de mes taches et faire le planning de la journée,communiquer l'avancement des taches et demander/offrir de l'aide en cas de blockage,suivre les DAG airflow et corriger les codes en cas d'erreurs,"realisation des nouvelles taches:
+script python/ nodejs","projects secondaires: peuvent introduire des nouvelles sources de connaisance (spark, reseau, docker ...)",,,,,
+2021,Datagram,Data Engineer,"Planifier la journée.
+Maintenir les tâches déployées.
+Participer à la réunion d'équipe.
+Consulter les nouvelles tâches.
+Travailler sur le projet principal.
+Valider les tâches finies.
+Coordonner le travail avec les autres membres.
+Fixer les problèmes.
+Avancer dans le projet parallèle.
+Valider l'avancement.","Planifier la journée:
+- Consulter les e-mails.
+- Consulter le travail du jour précédent.
+- Organiser le travail à faire.","Maintenir les tâches déployées:
+- Consulter l'état des tâches déployées.
+- Valider la qualité de données résultat de ces tâches.
+- Préparer une liste des tâches à fixer si elles existent.","Participer à la réunion d'équipe:
+- Ecouter les commentaires des autres membres.
+- Décrire le travail effectué hier.
+- Décrire le travail à faire aujourd'hui.
+- Poser des questions si quelque chose n'est pas clair.","Consulter les nouvelles tâches:
+- Vérifier s'il y a de nouvelles tâches.
+- Estimer leur temps et leur priorité.
+- Ajouter ces tâches au planning de la journée.","Travailler sur le projet principal:
+- Ajouter de nouvelles fonctionnalités.
+- Améliorer le code déjà implémenté.
+- Documenter le travail.","Valider les tâches finies:
+- Tester l'avancement.
+- Vérifier la qualité de travail.
+- Vérifier la base de données pour les tâches déployées.","Coordonner le travail avec les autres membres:
+- Consulter le travail d'autres membres dans la même équipe.
+- Intégrer le travail des différents membres de l'équipe si nécessaire.
+- Se mettre d'accord sur la prochaine étape.","Fixer les problèmes:
+- Résoudre les problèmes.
+- Supprimer tout ce qui est inutile.
+- Tester les nouvelles versions après le fix.","Avancer dans le projet parallèle:
+- Consulter les travaux des autres membres.
+- Progresser dans le développement.
+- Documenter le travail effectué.","Valider l'avancement:
+- Mettre à jour le statut des tâches.
+- Mettre le travail fini prêt pour les tests.
+- Consulter le travail qui reste pour demain."
+2019,Revenu quebec ,AI analyste,"Tester le produit AI
+Presenter le produit pour le client
+Preparer la documentation publique du produit
+Mettre en oeuvre des POC","Collaborer avec l'équipe scientifique de données pour l'installation sur les machines et élaboré les tests.
+Collaborer avec l'équipe MLops pour les changements pipeline.
+Appliquer les changements côté scientifique de données.
+Préparer une présentation pour l'assurance qualité (des suggestions ou bugs)","Préparation de la présentation
+Réunion avec le client
+Réunion interne pour discussion de output
+Le PM prend en charge les documents d'affaires ","Collaborer avec le scrum master pour préparation du plan de la documentation publique.
+Faire de la recherche.
+Collaborer avec les responsables pour réserver une place pour la publication de notre produit et discuter les règle d'acceptation.","Collaborer avec les scientifiques de données pour partager les tâches.
+Recherche de données et les techniques de pointe utilisés.
+Modélisation et coding.
+Présentation ",,,,,,

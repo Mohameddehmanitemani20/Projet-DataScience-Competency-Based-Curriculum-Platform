@@ -1,0 +1,109 @@
+Horodateur,Nom Prénom,Année de diplomation,"Entreprise Actuelle
+","Poste Actuel
+",Merci de  décrire une journée de travail (10 activités):,"Pour chaque activité, merci de décrire 3 à 4 taches: 
+ACTIVITE 1:",ACTIVITE 2:,ACTIVITE 3:,ACTIVITE 4:,ACTIVITE 5:,ACTIVITE 6:,ACTIVITE 7:,ACTIVITE 8:,ACTIVITE 9:,ACTIVITE 10:
+24/01/2023 11:06:56,,.,b,b,b,b,,,,,,,,,
+24/01/2023 12:18:25,asma methamem,2021,arsela,full stack developer,"réfléchir, discuter, développer, entendre de la musique, chercher ",trouver des solutions,partager les idées ,ecrire du code ,concentration ,,,,,,
+24/01/2023 12:54:30,Ahmed Ghazouani,2022,Vermeg Factory,Data science engineer(R&D),Résoudre des problemes journalier en utilisant l'intelligence artificielle et la recherche de nouveau solution à intégré,Automatiser des taches ,Sortir des algo de data avec machine learning,Creer chatbot intelligent avec tranformers(deep learning),,,,,,,
+24/01/2023 13:41:14,Ahmed AbduelRahmen Haddad ,2022,Foodealz ,Ingénieur informatique ,"Réunion équipe
+Réunion avancement
+Réunion sprint 
+Décrire les tâches
+Développement
+Pause
+Développement
+Fin et push sur git
+Update trello
+Réunion fin tâche 
+",Parler des idées et remarques avec reminder de deadline et cahier des charges.,Cité notre plan d'avancement et les problématiques ainsi que les solutions.,"Parler du notre sprint, cité le deadline, méthode et méthodologie.",Expliquer les tâches et les diffusé entre l'équipe.,"Développement, recherche...","Pause pour parler, manger...","Développement, recherche...","Fin du tâche, vérification des codes, pull, push...","Update trello, les remarques el les problématiques.",Réunion pour parler des erreurs et des solutions.
+24/01/2023 14:16:01,Khaoula BECHKOUEL ,2019,Teamwill ,Consulante technico fonctionelle,"Analyser un bug contourner une erreur sur la production livrer des objets tester,  faire des réunions de suivi.....",,,,,,,,,,
+24/01/2023 15:33:53,Samira Tagougui,2021,La Banque africaine de développemen,IT specialist,"•	Implémentation de la nouvelle version de l’internat de la banque
+•	Migration les plateformes du SharePoint 2010 vers 2013 vers 365
+•	Configuration du Service now 
+•	Migration vers SAP 4/Hana
+•	Implémentation du module FM-BCS pour le système SAP
+•	Participer à des projets d’intégration de SAP CONCUR
+
+","•        Réaliser l'analyse des contraintes d'exploitabilité
+•        Implémenter le packaging et l’intégration des solutions de la banque africaine du développement 
+•        Mettre en place et diffuser les indicateurs les normes (ITIL) et les procédures d'exploitation","Importer une liste SharePoint
+
+Attacher une liste SharePoint
+
+Déplacer des données vers SharePoint
+
+Avantages de la liaison de données entre Access et SharePoint
+
+Publier une base de données à l’aide de Access Services","la mise en service est une approche à l’échelle de l’entreprise  pour conceptualiser, déployer et gérer la gamme complète des ressources du système IT.
+la mise en service sont:
+Réseau
+Serveur
+Application
+Utilisateur","Evaluer la qualité actuelle des données, en n’oubliant pas le cas des données vieillissantes.
+Convertir les données vendeur et client vers un modèle unique centré sur les partenaires.
+Mise en place d’une gouvernance des données maîtres après migration.
+Comprendre et optimiser les processus permettra d’accélérer la migration vers SAP S/4HANA.
+Analyser l’écart entre ECC et SAP S/4HANA
+Analyser et convertir les spécifiques","La Préparation
+Le Business Blueprint 
+La Réalisation 
+La Préparation finale 
+Le Go-Live et Support 
+
+","Presales
+ Kick off 
+ As Is
+ To be
+SAP configuration 
+Training 
+ Unit Testing 
+ Integration testing 
+Cutover 
+ Go live and nurturing 
+ Support",,,,
+24/01/2023 18:03:06,Ahmed azouzi ,2023,Orange tunisie ,UX design intern ,User research ,User analysis ,Empathize with users ,Define ,Ideate ,Design ,Test ,,,,
+24/01/2023 19:03:11,Ghachem eya ,2022,Linedata ,Software development engineer ,"Affectation dans une ticket, replication du problème, investigation, fixer le problem, rédiger un document pour résumer le fix 
+Commit du fix sur le serveur 
+Discussion entre moi les QA 
+
+",Le manager m’affecte a une ticket client,Replication du problem dans la version du produit adéquate selon le scénario mentionné dans la fiche ticket,Investigation du problem afin de savoir d’ou vient le problem et anomalie exactement. Une discussion avec le business analyst afin de savoir si cest expected or not,Concevoir et implementation de la solution pour le problème. Avant tout il faut discuter la solution avec mon mentor pour savoir si la solution est optimale ou non.,Réduction du document afin de mettre tout lea details de investigation et la solution implémentée ,Commit dans le serveur. ,Discussion avec les QA team si il y a des problemes des quils teste la solution implémentée. ,,,
+24/01/2023 20:15:18,Mustapha CHRAIET ,2018,Independent ,Ingénieur informatique ,"Réunions , cadrage, jira , observations, support, développement ",Préparation des réunions ,"Étude de besoin, chiffrage ",Saisie des tâches et les sous tâche ,Métriques ,Support de la prod ,"Écrire du code , code review ",,,,
+24/01/2023 22:13:10,Wassim Gargouri,2019,Freedom Of Dev Services,Ingénieur logiciel,Daily scrum / développement des users stories / des réunions avec le client / des réunions internes / des réunions internes hors projet / pauses / ping-pong / formation continue / encadrement des stagiaires / ,Mentionner les tâches terminées / Mentionner les tâches à prendre / Mentionner les blocages s'il y en a,Analyser la description / extraire le scénario nominale et les scénarios alternatives / faire une étude d'impact sur le code à ajouter / commencer le dev / faire les tests unitaires et fonctionnels,"des réunions de : 
+grooming
+Sprint review
+Sprint planning","Des réunions de : 
+Release estimation
+Découpe en tâches
+Sprint rétrospective
+Discussion des solutions / architecture","Des réunions de :
+Info session sur un axe administratif
+Réunion hebdomadaire avec les cellules (organisation Opale)
+Préparation des événements",Dans la cuisine / sale de jeu / en dehors de la société,Ping-pong,"Soit des formations soft skills, hard skills, demandée par le client ou par l'employé","Faire le suivi de développement avec la méthode scrum
+Faire le suivi de la rédaction du rapport",
+3/2/2023 20:13,Nej chamakh ,2022,Snetor ,Ingénieur ,Réponds au e-mail de l’utilisateur et avancer dans le projet de l’entreprise ,Lancer le processus etl,Traitement des erreurs ,Mettre à jour les tables avec les données actual ,Faire des tests unitaires ,Créer des programmes,,,,,
+3/2/2023 21:44,Nasr,2022,Obiz,développeur web,"réunion avec mon responsable.
+réunion avec un client.
+réunion avec un client.
+réunion avec un autre membre de l'équipe.
+développement.
+développement.
+développement.
+développement.
+réunion avec un autre membre de l'équipe.
+développement.",réunion avec mon responsable.,réunion avec un client.,réunion avec un client.,réunion avec un autre membre de l'équipe.,développement.,développement.,développement.,développement.,réunion avec un autre membre de l'équipe.,développement
+4/2/2023 19:32,Tarek Loukil,2022,Huawei,Data analyst,"Running python script.
+Uploading data in database
+Updating some tables
+Running SQL script to map the data
+View SQL result .
+Create charts .
+Creating dashboards .
+Visualize the data on dashboards.
+Generating reports.
+Reviewing reports with manager.
+",,,,,,,,,,
+6/2/2023 12:10,Hqythem chniti,2022,Ismaik,Enseignant,Enseignement ,"Preparation de cours, ",Faire de exercices ,,,,,,,,
+6/2/2023 20:04,sarra abben,2023,Esprit school of business ,Etudiante,j a,,,,,,,,,,
+14/02/2023 12:01:04,Mohamed ,2012,Accor,Cloud engineer ,"Suivre la mise en production
+Faire des poc
+",,,,,,,,,,

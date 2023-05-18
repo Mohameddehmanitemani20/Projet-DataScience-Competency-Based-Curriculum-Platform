@@ -1,0 +1,64 @@
+Horodateur,Score,Nom et Prénom,Votre option :,Année de diplomation,Entreprise Actuelle,Poste Actuel,Merci de  décrire une journée de travail (10 activités):,"Pour chaque activité, merci de décrire 3 à 4 taches: 
+ACTIVITE 1:",ACTIVITE 2:,ACTIVITE 3:,ACTIVITE 4:,ACTIVITE 5:,ACTIVITE 6:,ACTIVITE 7:,ACTIVITE 8:,ACTIVITE 9:,ACTIVITE 10:
+1/30/2023 22:28:17,0,Malek Bejaoui,Software Architecture Engineering,2018,Capgemini Deutschland,Enterprise Architect,"Well my work depends each days on the planned meetings and The Application Teams that I have to support, I belong to a Team of 10 Architects we work Together/Separately  Helping The Client Teams Migrating Their Applications from on-prem to Cloud.
+Each Team has a Target Architecture and each Team has its own requirements and team members skills set, Some Teams has no Cloud Knowledge so we have to do the Migration for them and some they just need support in some areas (DB,CICD, Cutover, Planning, security,...)
+On Average I support 2~3 Teams.","Internal Daily from 9:00 to 9:30 AM.
+",First Team(Client Team) Jour Fix form 9:30 to 10:00 AM.,Second Team(Client Team) Jour Fix form 10:00 to 10:30 AM.,Work On writing Helm Charts.,Work on Terraform Script.,Have 1to1 with One of the Teams members to Clarify/Explain some topics.,Support/do it Myself DB Migration.,"Write Documentation and Guidelines in different areas of Application migration (CICD, DB breakthrough, how to use Terraform, Quality Assurance).",Meeting with the Client responsible to sync the Applications status.,Onboard new Applications and define the requirements and the suitable Target Architecture.
+1/31/2023 0:58:40,0,Kmar louhichi,ERP-BI,2021,Tikehau capital,Data analyst,"-se connecter teams, outlook,jira..
+-planifier la journée 
+-commencer les taches du premier projets 
+-traiter les tickets ","-Repondre aux messages teams
+-Checker les emails d’hier non lus
+-Voir si y a de nouveaux tickets jira pour les traiter
+","-Commencer le daily meeting
+-planifier les taches de la journée 
+-discuter avec les collègues concernant les taches demandées ","-La maintenance des anciens rapports
+-la création de nouveaux rapports 
+-partager les rapports avec mon manager ","-catégoriser les tickets selon leurs priorités 
+-transférer les tickets qui concernent d’autres départements 
+-traiter les tickets du privet debt et private equity",,,,,,
+1/31/2023 9:46:40,0,Oussema Hmaidi,ERP-BI,2020,Expertime,Ingénieur data,"daily meetings tour des tickets
+monitoring des pipelines adf existants résoudre les bugs journaliers développer des notebooks databricks créer des pipelines azure data factory créer des applications logiques assurer la cohérence des données entre les différents sources et destinations déploiement du développement réalisé sur les différents environnements
+Comm client",communiquer les points bloquants communiquer l'avancement sur les taches essayer d'aider ceux qui sont bloqués clarifier et identifier les taches du jour,"regarder s'il y a des nouvelles tickets ouvertes mettre à jour les différents tickets (commenter, changement de status, affectation des tickets,
+etc)",prendre notes du temps d'exécution des pipelines afin d'optimiser ce dernier génération des statistiques journalières en se basant sur ce monitoring ceci aide à identifier les bugs,Chaque bug a ses uniques activités ,création des clusters création des tables deltalake développer les notebooks pspark et sq|,configurer et mettre en place des activités préparer les services liés pour assurer la connexion entre les services préparer les triggers créer des flux de données et plein d'autres tâches,créer la logique à l'aide du concepteur définir les paramètres associés génerer le json et le lien de connexion pour des futurs besoins,"visualiser et assurer la présence des fichiers sources sous la VM (fichiers zip)
+désompression de ces fichiers sous un
+contenaire datalake
+chargement des données vers le base de données
+qualité (deltalake)
+transfert après le process ETL vers l'entrepôt de données sql server","développer les pipelines CI/CD dans devops créer les parametre de déploiement (dev, uat, pre
+prod, prod)
+gérer les branches et l'exécution de ces pipelines
+CU/CD","essayer de remonter les informations au client pour le garder à jour
+planifier des réunions pour faciliter la bonne compréhension du besoin"
+1/31/2023 10:33:24,0,BEN HADJ Gassen,CLOUD,2019,EOS GmbH,Cloud Architect,Conduire la transformation digitale de l'entreprise vers le cloud ,Migration de serveurs et d'applications sur site vers le cloud,Optimisation des coûts et ressources de révision dans le cloud,Concevoir des solutions et planifier leur mise en œuvre ,Durcissement des serveurs et vérification de leur sécurité et de leur conformité aux normes,Éduquer et consulter les utilisateurs du cloud au sein de l'entreprise ,Résolution des tickets de niveau 3,Planifier et maintenir les sauvegardes et les stratégies de reprise après sinistre,Collaborer avec des collègues lors des réunions de synchronisation,"Me former sur les nouvelles stratégies, les techniques de conception d'architecture et les nouveaux services cloud",Prendre de courtes pauses
+1/31/2023 10:35:39,0,Chbinou Mohamed firas,TWIN,2022,CosaVostra,Développeur web,"Daily scrum, Développement, Revue de code, Consulter les Emails, Réunions.","Parler avec les collègues, lister les taches réalisé, fixer objectifs de chaque jour. ","Développer les fonctionnalités, Debuger, Tester.","Tester le travail de l'un de mes collègues, lire son code, recommander des modification si nécessaire.  ","Vérifier la boite mail, lire les Emails, Répondre.","Parler avec le client, comprendre ses besoins, préparer le spec technique. ",,,,,
+,,,,,,,,,,,,,,,,,
+1/31/2023 15:03:12,0,Amira Eddhib,Software Architecture Engineering,2021,BIWARE,Product Owner,"Checker la boite mail
+Faire des relances pour des prises de rendez-vous
+Suivi équipe DEV
+Organisation des réunions métiers avec le Scrum Master et le Tech Lead
+Travailler sur la stratégie de développement du produit
+Elaboration d'un Business Model Canvas du produit
+Rédiger un rapport hebdomadaire sur l'avancement du projet
+Gestion retours client
+Rédaction Cahier des charges produit
+Elaboration Roadmap produit","Rédaction mail
+Suivi mail
+programmer envoi d'un email","Checker les boucles de messages avec les contacts
+Vérification des dates de disponibilités pour booker des créneaux 
+Coordination pour organiser des réunions ",,,,,,,,
+1/31/2023 21:19:43,0,Ameni sneni,Software Architecture Engineering,2021,Tst,Ingénieur ,Cafe teste développement ,Collecte des donnes ,,,,,,,,,
+2/1/2023 18:58:35,0,Guelmami Abdelkrim,Software Architecture Engineering,2022,Sopra HR,Delivery Lead,"Gérer les demandes de clients
+rejoindre les réunions avec l'équipe et les intervenants des projets
+terminer des taches de développements
+","Gérer les demandes de clients
+recevoir les demandes que ça soit par JIRA ou bien mail et élaborer une description pour la taches à réaliser. Enfin il faut déléguer le sujet aux personnes éligibles.","Certaines taches nécessite l'intervention d'une personne expérimentée, d'ou vient le rôle du delivery Lead.",,,,,,,,
+2/1/2023 20:08:45,0,Khouloud belhaj,ERP-BI,2022,Decilia,Consultante en BI,"Vérification des jobs sur sql server agent
+Diagnostique des anomalies 
+Communication des problèmes au client
+analyse 
+Correction des flux
+","Ouvrir la liste des jobs dans sal server agent
+Distinction des jobs qui ont échoué 
+Lecture des erreurs à travers les logs","Selon l’anomalie , exécution des requêtes sql pour  plus de détails ","Rédiger un e-mail pour expliquer la situation au client problème rencontrés et étapes à suivre pour résoudre 
+",Tester en dev et comparer avec la prod ,Implémentation de la solution en prod ,,,,,

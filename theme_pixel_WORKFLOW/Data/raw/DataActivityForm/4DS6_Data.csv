@@ -1,0 +1,92 @@
+Horodateur,Score,Nom et Prénom,Année de diplomation,Entreprise Actuelle,Poste Actuel,Merci de  décrire une journée de travail (10 activités):,"Pour chaque activité, merci de décrire 3 à 4 taches: 
+ACTIVITE 1:",ACTIVITE 2:,ACTIVITE 3:,ACTIVITE 4:,ACTIVITE 5:,ACTIVITE 6:,ACTIVITE 7:,ACTIVITE 8:,ACTIVITE 9:,ACTIVITE 10:
+30/01/2023 14:08:25,,Najmeddine Romdhane,2021,Planisware,Consultant technique,"1-configuration sur l'environnement du client
+2-analyses des logs
+3-tests
+4-installation des mises à jour
+5-migration des versions
+6-réunion avec l'équipe de projet.
+7-ouvrir des tickets pour l'équipe de support
+8-documentation
+9-remplir le timecard
+","trouver la solution, implementation, tester sur l'environnement de test, livrer la solution","lire les fichiers log du système de client, signaler les problèmes, chercher des solutions","préparer les scénarios des tests, tester, documenter les résultats","synchronizer avec le client et l'équipe de projet, arrêter le système, livrer les packages de la mise à jour, relancer le système","synchronizer avec le client et l'équipe de projet, créer un nouveau environnement, installer la nouvelle version, migrer les données du client",,,,,
+30/01/2023 15:10:11,,Khaoula ouchen,2024,Sopra HR,Consultante QA,pointage  / Brancher son PC / Consulter ses notification / assister a ses réunions / poursuivre avec ses taches non accomplis / Pause déjeuner / Reprendre avec ses taches aprés la pause déjeuner / mettre à jour son état d'avancement /demande de l'aide de ses collégues si on a besoin ou les débloquer s'il le demande / débarncher son PC,pointage,Brancher son PC,Consulter ses notification,assister a ses réunions ,poursuivre avec ses taches non accomplis,Pause déjeuner , Reprendre avec ses tachesaprés la pause déjeuner,mettre à jour son état d'avancement ,demande de l'aide de ses collégues si on a besoin ou les débloquer s'il le demande ,débarncher son PC
+30/01/2023 20:50:10,,Aziz Dridi,2023,Talan,Data Analyst,"- Compréhension du métier
+- Compréhension des données
+- Préparation des données
+- Modélisation
+- Evaluation
+- Déploiement","- Compréhension du métier: Receuillir les besoins du clients et les convertir en objectifs métiers respectivement prédictif , descriptif.","- Compréhension des données: 
+- Comprendre la source de no données (fichier excel, txt, csv...)
+- Conception du modèle datawarehouse 
+- Comprendre les différentes entre les tables (dimensions) et le fait (fact table)","- Préparation des données: effectuer les transformations necéssaires,
+- Les conversions de type
+- Suppressions des valeurs vides
+- Imputation des valeurs aberrantes","En se basant sur ses données:
+- On essaye de fixer des objectifs métiers en réponse aux besoins du client
+- On modélise chaque objectif par plusieurs algorithmes ( Supervisés ou non supervisés)
+","En analysant ses résultats en se basant sur plusieurs métriques de performance des algorithmes, on choisit le meilleur alogrithme convenant qui nous donne une meilleure prédiction (logique et proche de la réalité)",- Déploiement: On choisira seulement 1 alogrithme par objectif métier et on essaye d'exporter les visualisations sous une plateforme web afin de le présenter en tant que livrable avec les tableaux de bords le jour J.,,,,
+31/01/2023 13:07:23,,Mohamed chaabouni,2018,Sodexo Pass France,Fullstack developer,Café avec les collègues. Daily. Développement de nouvelles US. Résolution de ticket de bugg. Résolution de ticket de prod. Low level design redaction. Déjeuner avec l'équipe. Résolution de ticket de bugg ou développement US. Salle de sport. Métro. Dodo. 😁,Développement de nouvelles US ,Rédaction de LLD,Cérémonie agiles.,Résolution de bugg de Prod.,Résolution de ticket de bugg,Veille technologique,,,,
+31/01/2023 13:31:04,,Yessine khanfir,2022,InstaDeep,AI Research Engineer,"Introduction to AI research:
+
+-how to read a research paper ?
+-Identify most important AI architectures
+-hands on with Pytorch
+-attention is all you need
+","-Learn how to read a paper
+
+-Read understand and explain a paper of choice
+
+-discussion","-Conduct a research on most recent advances in NLP & Computer Vision & Diffusion.
+
+-Pick an AI model, understand and explain how it works
+
+-discussion","-Read pytorch documentation
+
+-implement and train a basic model from scratch using pytorch
+
+-discussion",.,.,.,.,.,.,.
+31/01/2023 13:32:48,,Rihana Msadek,2019,Google,Customer Engineer in AI/ML,"Duranr une journée de travail, il m’arrive d’effectuer 3 tâches: discuter avec des collègues sur les challenges de nos clients, chercher des solutions potentiels, présenter à un client/résoudre des problèmes techniques liés à un produit chez un client.","Les rencontres d’équipes servent principalement à revoir les besoins clients pour décider sur l’architecture de solutions qu’on désire implémenter auprès du client. 
+Ça nous donne aussi du contexte qui nous permet de cibler une problématique qui nécessite une solution urgente et qui a un impact sur le business.","La recherche des solutions potentiels sert à comparer entre les différents produits qu’on peut recommander au client mais aussi à bâtir une connaissance solide sur nos différents solutions, ce qui nous permet d’effectuer une implémentation optimale auprès de nos clients.","Avant de présenter à un de nos clients, nous devons nous assurer que nous couvrons dans notre agenda tous les besoins qui ont été mentionnés par un/plusieurs membres de l’équipe client.
+En fonction des profils des personnes assistants à la présentation, notre présentation peut être assez technique, comme elle peut présenter des concepts techniques d’une manière très simplifiée.",-,-,,,,,
+31/01/2023 14:38:35,,Ben Noureddine Yosr,2018,Equativ,Ingénieur QA / Testeur logiciel,"1. Analyse des spécifications sur JIRA
+2. Conception des cas de tests Cucumber sur XRAY 
+3. Exécution des tests UI, APIs avec Postman/Insomnia et Bases de données avec Dbeaver 
+4. Reporting des bugs et des améliorations sur JIRA
+5. Participation à toutes les cérémonies Scrum de deux projets en parallèle en Français et de l’équipe QA en Anglais
+6. Elaboration de divers documents sur Confluence
+7. Animation de plusieurs présentations et démonstrations 
+8. Encadrement des nouveaux membres de l’équipe QA pendant leur phase d’intégration 
+9. Participation à l’automatisation de test avec Cypress  ",Analyse des spécifications sur JIRA: Lire les user stories écrites par le Product Owner et faire des retours s'il manque des infos ou si le ticket n'est pas clair.,"Conception des cas de tests Cucumber sur XRAY: Rédiger les cas de test en format : Given When, Then. ","Exécution des tests UI, APIs avec Postman/Insomnia et Bases de données avec Dbeaver: en suivant les scénarios des cas de test préparés en avance",Reporting des bugs et des améliorations sur JIRA: Créer des tickets de bugs ou améliorations sur jira après discussion de l'anomalie avec l'équipe (développeurs et Product Owner). L'amélioration est créé si la spécification ne couvre pas le comportement détecté.,"Participation à toutes les cérémonies Scrum de deux projets en parallèle en Français et de l’équipe QA en Anglais (daily scrum, rétrospectives, démos, refinement)",,,,,
+08/02/2023 20:58:50,,Djocgoué Tchaleu Soreilla,2022-2023,Dialogs ,Agent au service clientèle ,Collecter les données et contacter les clients ,Collecte de données ,Contacter les clients,Faire un retour aux supérieurs ,Nan,Nan,,,,,
+09/02/2023 10:29:34,,siwar jouini,,Yellowsys,Consultante BI,"Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ","Consulting , Greer une equipe , travailler la partie ETL, Reunion avec le client ",,,
+14/02/2023 04:42:59,,Hadrien Gayap,2022,Perception Robotics et Intelligence Machine (PRIME - Canada),Assistant Chercheur,"1- Collecte de données
+2- Exploration de données
+3- Analyse de données
+4- Visualisation de données
+5- Traitement de données
+6- Modélisation de données
+7- Évaluation de la performance du modèle
+8- Optimisation des modèles
+9- Interprétation des résultats
+10- Communication des résultats","Définir les sources de données à collecter
+Mettre en place des processus de collecte de données (web scraping, API, etc.)
+Stocker les données collectées dans une base de données ou un entrepôt de données","Nettoyer et préparer les données pour l'analyse
+Identifier les tendances et les modèles dans les données
+Effectuer une analyse descriptive pour mieux comprendre les caractéristiques des données","Choisir les méthodes d'analyse appropriées pour répondre aux questions du projet
+Mettre en place des modèles d'apprentissage automatique ou de statistiques
+Évaluer la performance des modèles et ajuster les paramètres si nécessaire","Créer des graphiques et des tableaux pour représenter les résultats de l'analyse
+Utiliser des outils de visualisation pour mieux comprendre les tendances dans les données
+Présenter les résultats d'une manière claire et concise pour les parties prenantes du projet","Nettoyer et préparer les données pour une utilisation ultérieure
+Manipuler les données pour répondre aux exigences spécifiques du projet
+Créer des ensembles de données de formation et de test pour l'apprentissage automatique","Créer des modèles de données pour mieux comprendre les relations entre les variables
+Identifier les variables importantes pour les modèles de prédiction
+Créer des ensembles de données de formation et de test pour l'apprentissage automatique","Évaluer la précision des modèles de prédiction en utilisant des métriques appropriées
+Comparer les performances des modèles différents
+Identifier les problèmes de sur-apprentissage ou de sous-apprentissage des modèles","Optimiser les paramètres des modèles pour améliorer la performance
+Effectuer une sélection de variables pour éliminer les variables non importantes
+Utiliser des techniques avancées telles que l'apprentissage par renforcement pour améliorer la performanc","Interpréter les résultats des modèles et les rendre compréhensibles pour les non-experts
+Identifier les facteurs qui influencent les prédictions des modèles
+Expliquer les raisons des prédictions erronées des modèles","Préparer des rapports et des présentations pour communiquer les résultats du projet
+Présenter les résultats d'une manière compréhensible pour les parties prenantes du projet
+Répondre aux questions et aux préoccupations des parties prenantes du projet."
